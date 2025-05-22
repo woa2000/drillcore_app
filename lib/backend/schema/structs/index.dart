@@ -1,0 +1,19 @@
+export '/backend/schema/util/schema_util.dart';
+
+export 'alvo_struct.dart';
+export 'atividade_struct.dart';
+export 'atividade_boletim_struct.dart';
+export 'boletim_struct.dart';
+export 'cliente_struct.dart';
+export 'consistencia_struct.dart';
+export 'diametro_struct.dart';
+export 'equipe_struct.dart';
+export 'equipe_projeto_struct.dart';
+export 'furo_struct.dart';
+export 'furo_boletim_struct.dart';
+export 'model_result_struct.dart';
+export 'orientacao_struct.dart';
+export 'parametros_struct.dart';
+export 'projeto_struct.dart';
+export 'sonda_struct.dart';
+export 'turno_struct.dart';

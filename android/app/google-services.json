@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640916741529",
+    "project_id": "drill-core-j0yeng",
+    "storage_bucket": "drill-core-j0yeng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640916741529:android:9354fd8ecbbcb743c70708",
+        "android_client_info": {
+          "package_name": "com.mycompany.drillcore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1t3VPyjeKr8JPWfdnfvIHMsFlMu32KYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640916741529:android:4d507f5dd0f5f4f0c70708",
+        "android_client_info": {
+          "package_name": "com.rasystem.drillcore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1t3VPyjeKr8JPWfdnfvIHMsFlMu32KYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
